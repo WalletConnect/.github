@@ -1,5 +1,5 @@
 # WalletConnect
-![Connecting Web3](../assets/banner.png)
+![Connecting Web3](./banner.png)
 
 :heart: Official website: [website](https://walletconnect.com/)<br/>
 :books: WalletConnect [documentation](https://docs.walletconnect.com/)<br/>
