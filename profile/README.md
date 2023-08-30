@@ -1,7 +1,7 @@
 # WalletConnect
 Connecting Web3
 
-:heart: Main website: [website](https://walletconnect.com/)<br/>
+:heart: Official website: [website](https://walletconnect.com/)<br/>
 :books: WalletConnect [documentation](https://docs.walletconnect.com/)<br/>
 :question: Have questions? [Start a discussion](https://github.com/orgs/WalletConnect/discussions/3457)
 
