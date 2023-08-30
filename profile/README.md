@@ -1,5 +1,6 @@
 # WalletConnect
 
+![Github-WalletConnect-Banner](https://github.com/WalletConnect/.github/assets/45455218/23105dcc-572b-49b0-82f2-126410afc700)
 <!-- <p align="center">
   <img src="./Logo.svg" />
 </p> -->
