@@ -1,4 +1,3 @@
-# WalletConnect
 ![Github-OG-Banner (1)](https://github.com/WalletConnect/.github/assets/45455218/7a65a5e6-332f-4142-89f3-c4966a1540ab)
 
 :globe_with_meridians: Official website: [website](https://walletconnect.com/)<br/>
