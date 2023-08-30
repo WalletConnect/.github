@@ -13,7 +13,7 @@ Connecting Web3
 - [Read our docs](https://docs.walletconnect.com/2.0/web3inbox/about)
 - [Main Repository](https://github.com/WalletConnect/web3inbox)
 
-# Web3Wallet
+## Web3Wallet
 
 - [Read our docs](https://docs.walletconnect.com/2.0/web3modal/about)
 - [Implementation Examples](https://github.com/WalletConnect/web-examples)
