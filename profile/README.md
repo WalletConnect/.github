@@ -1,6 +1,9 @@
 # WalletConnect
 Connecting Web3
 
+- [Visit our website](https://walletconnect.com/)
+- [Read our docs](https://docs.walletconnect.com/)
+- [Ask a question](https://github.com/orgs/WalletConnect/discussions/3457)
 
 ## Web3Modal
 
@@ -18,9 +21,3 @@ Connecting Web3
 - [Read our docs](https://docs.walletconnect.com/2.0/web3modal/about)
 - [Implementation Examples](https://github.com/WalletConnect/web-examples)
 - [Main Repository](https://github.com/WalletConnect/walletconnect-monorepo/tree/dcc9d6d27a40e0a764748abd75b96ca80d459f01/packages/web3wallet)
-
-## General
-
-- [Visit our website](https://walletconnect.com/)
-- [Read our docs](https://docs.walletconnect.com/)
-- [Ask a question](https://github.com/orgs/WalletConnect/discussions/3457)
