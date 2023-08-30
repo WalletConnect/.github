@@ -1,5 +1,8 @@
 # WalletConnect
-![Connecting Web3](./Logo.svg)
+
+<p align="center">
+  <img src="../Logo.svg" />
+</p>
 
 :heart: Official website: [website](https://walletconnect.com/)<br/>
 :books: WalletConnect [documentation](https://docs.walletconnect.com/)<br/>
