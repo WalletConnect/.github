@@ -17,6 +17,6 @@
 
 ## Web3Wallet
 
-:books: Read the Web3Wallet [documentation](https://docs.walletconnect.com/2.0/web3modal/about)<br/>
+:books: Read the Web3Wallet [documentation](https://docs.walletconnect.com/2.0/web3wallet/about)<br/>
 :microscope: Learn by example: [Implementation Examples](https://github.com/WalletConnect/web-examples)<br/>
 :computer: Read through the source code: [Main Repository](https://github.com/WalletConnect/walletconnect-monorepo/tree/dcc9d6d27a40e0a764748abd75b96ca80d459f01/packages/web3wallet)
