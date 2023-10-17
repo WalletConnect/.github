@@ -7,7 +7,7 @@
 ## Web3Modal
 
 :books: Read the Web3Modal [Documentation](https://docs.walletconnect.com/2.0/web3modal/about)<br/>
-:microscope: Learn by example: [Implementation Examples](https://github.com/WalletConnect/web3modal-examples)<br/>
+:microscope: Learn by example: [Implementation Examples](https://github.com/WalletConnect/web3modal/tree/V3/examples)<br/>
 :computer: Read through the source code: [Main Repository](https://github.com/WalletConnect/web3modal)
 
 ## Web3Inbox
