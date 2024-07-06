@@ -4,19 +4,14 @@
 :books: WalletConnect [Documentation](https://docs.walletconnect.com/)<br/>
 :question: Have questions? [Start a discussion](https://github.com/orgs/WalletConnect/discussions/3457)
 
-## Web3Modal
+## AppKit
 
-:books: Read the Web3Modal [Documentation](https://docs.walletconnect.com/web3modal/about)<br/>
+:books: Read the AppKit [Documentation]([https://docs.walletconnect.com/web3modal/about](https://docs.walletconnect.com/appkit/overview))<br/>
 :microscope: Learn by example: [Implementation Examples](https://github.com/WalletConnect/web-examples/tree/main/dapps/web3modal)<br/>
 :computer: Read through the source code: [Main Repository](https://github.com/WalletConnect/web3modal)
 
-## Web3Inbox
+## WalletKit
 
-:books: Read the Web3Inbox [Documentation](https://docs.walletconnect.com/web3inbox/about)<br/>
-:computer: Read through the source code: [Main Repository](https://github.com/WalletConnect/web3inbox)<br/>
-
-## Web3Wallet
-
-:books: Read the Web3Wallet [Documentation](https://docs.walletconnect.com/web3wallet/about)<br/>
+:books: Read the WalletKit [Documentation](https://docs.walletconnect.com/walletkit/overview)<br/>
 :microscope: Learn by example: [Implementation Examples](https://github.com/WalletConnect/web-examples)<br/>
 :computer: Read through the source code: [Main Repository](https://github.com/WalletConnect/walletconnect-monorepo/tree/dcc9d6d27a40e0a764748abd75b96ca80d459f01/packages/web3wallet)
